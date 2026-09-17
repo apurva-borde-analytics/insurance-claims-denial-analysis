@@ -5,7 +5,12 @@ Pre-auth Missing identified as leading denial reason;
 overall denial rate 26%, above 25% benchmark threshold.
 
 ## Live Dashboard
-Publishing to Power BI Service — September 2026
+Published to Power BI Service (17 September 2026)
+
+Power BI URL (requires organisational login):
+https://app.powerbi.com/groups/me/reports/52949a19-ccea-4d8f-9349-427cb13d1957/fe5df71c2552d29ca50a
+
+![Dashboard Screenshot](Project2_Dashboard_Screenshot.png)
 
 ## Tools
 Power BI (DAX, Data Modeling) · SQL · Excel
